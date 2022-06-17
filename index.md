@@ -33,8 +33,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Contact me
 
-discord: ```MR_sticky_piston#8052```
+discord:  ```MR_sticky_piston#8052```
 
 youtube: [Sticky Piston](https://www.youtube.com/channel/UCHrlDTG3N3E16ExymBjhO4Q)
 
-reddit: [MR sticky piston](https://www.reddit.com/user/MR_sticky_piston)
+reddit:  [MR sticky piston](https://www.reddit.com/user/MR_sticky_piston)

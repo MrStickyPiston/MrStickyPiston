@@ -1,10 +1,14 @@
 ## About me
 
 hello, i am a programmer and a fanatic minecraft player.
-i also like minecraft rendering
+
+i also like minecraft rendering.
+
+here is one of my renders:
+
 <img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/zombiecreeperenderman.png" height="70%" width="70%" style="border-radius:20px">
 
-if you want a customized render, dm ```MR_sticky_piston#8052``` on discord.
+if you want a customized render, dm me on discord.
 
 ### Markdown
 

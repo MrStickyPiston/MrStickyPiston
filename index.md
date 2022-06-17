@@ -1,10 +1,8 @@
 ## About me
 
-hello, i am a programmer and a fanatic minecraft player.
+I am a programmer and like to build discord bots and make minecraft mods.
 
-i also like minecraft rendering.
-
-here is one of my renders:
+I also make minecraft renders like this one:
 
 <img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/zombiecreeperenderman.png" height="70%" width="70%" style="border-radius:20px">
 

@@ -1,10 +1,10 @@
-## MrStickyPiston
+## About me
 
 hello, i am a programmer and a fanatic minecraft player.
 i also like minecraft rendering
-![Image](src)
- <a href="url"><img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/zombiecreeperenderman.png" height="auto" width="200" style="border-radius:50%"></a>
-This site uses [Jekyll](https://jekyllrb.com/) to build.
+<img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/zombiecreeperenderman.png" height="70%" width="70%" style="border-radius:20px">
+
+if you want a customized render, dm ```MR_sticky_piston#8052``` on discord.
 
 ### Markdown
 

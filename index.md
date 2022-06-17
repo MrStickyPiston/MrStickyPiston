@@ -1,5 +1,5 @@
 ## about me
-I am a programmer and like to build discord bots and make minecraft mods.
+I am a programmer and i like to build discord bots and to make minecraft mods.
 
 I also make minecraft renders like this one:
 

@@ -2,7 +2,7 @@
 
 hello, i am a programmer and a fanatic minecraft player.
 i also like minecraft rendering
-![Image](src)
+![Image](https://github.com/MrStickyPiston/MrStickyPiston/raw/gh-pages/images/zombiecreeperenderman.png)
 
 This site uses [Jekyll](https://jekyllrb.com/) to build.
 

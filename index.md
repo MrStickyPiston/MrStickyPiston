@@ -1,18 +1,14 @@
 ## MrStickyPiston
-### i like minecraft and programming
+javascript, java and autohotkey
 
 ## about me
 I am a programmer who likes to build discord bots in JavaScript, 
 codes minecraft mods with java, 
 and likes to render minecraft scenes.
-If you are looking for minecraft wallpaper like this one,
-with animated players and mobs,
+If you are looking for minecraft wallpaper like the ones in the wallpaper gallery,
+with rigged players and mobs,
 or maybe even a animation,
 you just send a message to **MR_sticky_piston#8052** on discord.
-
-<img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/zombiecreeperenderman.png" height="70%" width="70%" style="border-radius:20px">
-
-[wallpaper gallery](https://mrstickypiston.github.io/MrStickyPiston/images/gallery)
 
 ## wallpaper gallery
 <img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/Pig%20request_2.png" height="100%" width="100%" style="border-radius:20px">

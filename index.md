@@ -1,13 +1,12 @@
-## About me
-
 I am a programmer and like to build discord bots and make minecraft mods.
 
 I also make minecraft renders like this one:
 
 <img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/zombiecreeperenderman.png" height="70%" width="70%" style="border-radius:20px">
 
-if you want a customized render, dm me on discord.
+If you want a customized render, dm me on discord.
 
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -31,7 +30,7 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+--->
 
 ### Contact me
 

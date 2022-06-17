@@ -1,3 +1,6 @@
+## MrStickyPiston
+### i like minecraft and programming
+
 ## about me
 I am a programmer who likes to build discord bots in JavaScript, 
 codes minecraft mods with java, 
@@ -11,31 +14,12 @@ you just send a message to **MR_sticky_piston#8052** on discord.
 
 [wallpaper gallery](https://mrstickypiston.github.io/MrStickyPiston/images/gallery)
 
-<!---
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
---->
+## wallpaper gallery
+<img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/Pig%20request_2.png" height="100%" width="100%" style="border-radius:20px">
+<img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/Shiny%20Pig.png" height="100%" width="100%" style="border-radius:20px">
+<img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/items_mob.png" height="100%" width="100%" style="border-radius:20px">
+<img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/pig_bare_bones.png" height="100%" width="100%" style="border-radius:20px">
+<img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/zombiecreeperenderman.png" height="100%" width="100%" style="border-radius:20px">
 
 ### Contact me
 

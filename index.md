@@ -9,7 +9,7 @@ you just send a message to **MR_sticky_piston#8052** on discord.
 
 <img src="https://raw.githubusercontent.com/MrStickyPiston/MrStickyPiston/gh-pages/images/zombiecreeperenderman.png" height="70%" width="70%" style="border-radius:20px">
 
-
+[wallpaper gallery](https://mrstickypiston.github.io/MrStickyPiston/images/gallery)
 
 <!---
 ### Markdown

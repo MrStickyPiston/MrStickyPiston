@@ -45,4 +45,4 @@ youtube: **[Sticky Piston](https://www.youtube.com/channel/UCHrlDTG3N3E16ExymBjh
 
 reddit:  **[MR sticky piston](https://www.reddit.com/user/MR_sticky_piston)**
 
-sellix:  **[stickypiston](https://stickypiston.sellix.io/)
+sellix:  **[stickypiston](https://stickypiston.sellix.io/)**

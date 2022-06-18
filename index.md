@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## About me
 I am a programmer who likes to build discord bots in JavaScript, 
 codes minecraft mods with java, 

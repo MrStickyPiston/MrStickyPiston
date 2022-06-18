@@ -1,5 +1,5 @@
 ## MrStickyPiston
-javascript, java and autohotkey
+I mainly use JavaScript, C# and Java
 
 ## about me
 I am a programmer who likes to build discord bots in JavaScript, 

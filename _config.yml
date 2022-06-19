@@ -4,5 +4,8 @@ show_downloads: false
 title: MrStickyPiston
 description: A programmer and a fanatic minecraft player
 
+github:
+  is_project_page: false
+
 plugins:
 - jekyll-remote-theme

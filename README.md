@@ -19,11 +19,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MrStickyPiston&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&show_icons=true)<br/>
+![](https://github-readme-stats-mrstickypiston.vercel.app/api?username=MrStickyPiston&theme=react&include_all_commits=false&count_private=true&layout=compact&show_icons=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrStickyPiston&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrStickyPiston&theme=react)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrStickyPiston&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![](https://github-readme-stats-mrstickypiston.vercel.app/api/top-langs/?username=MrStickyPiston&theme=react&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ## 💰 You can help me by Donating
 

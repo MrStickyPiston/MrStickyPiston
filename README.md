@@ -19,7 +19,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-mrstickypiston.vercel.app/api?username=MrStickyPiston&theme=react&include_all_commits=false&count_private=true&layout=compact&show_icons=true)<br/>
+![](https://github-readme-stats-mrstickypiston.vercel.app/api?username=MrStickyPiston&theme=react&include_all_commits=true&count_private=true&layout=compact&show_icons=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrStickyPiston&theme=react)<br/>
 

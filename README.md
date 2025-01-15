@@ -23,7 +23,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrStickyPiston&theme=react)<br/>
 
-![](https://github-readme-stats-mrstickypiston.vercel.app/api/top-langs/?username=MrStickyPiston&theme=react&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![](https://github-readme-stats-mrstickypiston.vercel.app/api/top-langs/?username=MrStickyPiston&theme=react&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
 
 ## 💰 You can help me by Donating
 
